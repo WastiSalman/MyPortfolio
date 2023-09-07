@@ -1,0 +1,38 @@
+.container{
+    background-color:#333;
+    text-align: center;
+    color: whitesmoke;
+    
+}
+.container h2{
+    text-align: center;
+}
+.container h3{
+    text-align:left;
+}
+.col-lg-6 img{
+    width: 300px;
+    height: 400px;
+    
+}
+.col-lg-6{
+    color: whitesmoke;
+}
+#dcolor{
+    color: aqua;
+}
+#btn{
+    border: 1px solid aqua;
+    
+    width: 115px;
+}
+#btn a{
+    color: aqua !important;
+}
+h2{
+    text-align: center;
+}
+.col-lg-4 img{
+    width: 200px;
+    height: 200px;
+}
